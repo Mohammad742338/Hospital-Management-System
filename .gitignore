@@ -1,0 +1,41 @@
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# Package Files (Compiled archives)
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Eclipse IDE specific files
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+.settings/
+.classpath
+.project
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+out/
+
+# Visual Studio Code specific files
+.vscode/
+
+# Maven build folder
+target/
+
+# Gradle build folder
+.gradle/
+build/
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
